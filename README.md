@@ -32,7 +32,7 @@ Voici les fichiers présents dans ce projet :
 - `Eleve.cpp` → le fichier principal que j'ai écrit
 - `G2D*.cpp` / `G2D*.h` → bibliothèques graphiques fournies par les enseignants
 - `V2.cpp` / `V2.h` → gestion des vecteurs (également fournies)
-- `glut.h`, `glut32.dll`, `glut32.lib` → fichiers liés à OpenGL/GLUT
+- `glut.h`, `glut32.dll`, `glut32.lib` → fichiers liés à OpenGL/GLUT (fournis par les enseignants)
 - `G2D.sln`, `G2D.vcxproj`, etc. → fichiers Visual Studio pour compiler le projet
 
 ---
